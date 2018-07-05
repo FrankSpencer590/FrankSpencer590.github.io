@@ -292,8 +292,9 @@ function myFunction() {
 </head>
 
 <body>
-<img src="https://s3.eu-west-2.amazonaws.com/schoolstuffidk/Photos/Music+Bar+Gif.gif" alt="Music Note" height="150" width="1400" </img>
-
+<font face="Courier New" color="#e0e0e0" text-allign="center">
+<h1>Cracksoft</h1>
+</font>
 
 
 <div class="topnav" id="myTopnav">
