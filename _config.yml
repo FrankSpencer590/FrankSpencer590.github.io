@@ -1,5 +1,5 @@
-theme: jekyll-theme-cayman
 title: Cracksoft
 include: [FrankSpencer590/FrankSpencer590.github.io/, About.html]
 include: [FrankSpencer590/FrankSpencer590.github.io/, index.html]
 include: [FrankSpencer590/FrankSpencer590.github.io/, ContactUs.html]
+include: [FrankSpencer590/FrankSpencer590.github.io/, Home.html]
